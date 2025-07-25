@@ -1,1 +1,1 @@
-# plant-disease-ditection-for-sustainable-agricultureagriculture
+# plant-disease-ditection-for-sustainable-agriculture
